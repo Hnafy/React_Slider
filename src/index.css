@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.countActive {
+    background-color: #777;
+    color: white;
+    border-radius: 2px;
+}
+.handleBtn {
+    cursor: pointer;
+    padding: 7px 9px;
+    border: none;
+    background-color: #777;
+    color: white;
+    border-radius: 4px;
+}
